@@ -1,10 +1,17 @@
+@-ms-viewport{ width: device-width; }
+
 body {
     background-image: url('images/marek-piwnicki-a-house-on-a-small-island-in-the-middle-of-a-lake.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     font-family: Inconsolata;
-  }
+}
+
+li.li-spacing {
+    display: inline-block;
+    text-align: left;
+}
 
 .footer { 
     position: fixed;
