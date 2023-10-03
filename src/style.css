@@ -21,17 +21,17 @@ li.li-spacing {
 
     background-color:black;
     color:white;
-    padding:10px;
-    opacity:75%; 
+    padding: .5%;
+    opacity:65%; 
     text-align: center; 
-    font-size: 10px;
+    font-size: 50%;
 }
 /* hi */
 
 .default-box {
     background-color:black;
     color:white;
-    padding:20px;
+    padding:1%;
     opacity:75%; 
     text-align: center;
 }
