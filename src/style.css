@@ -12,7 +12,7 @@ body {
     background-size: cover;
     font-family: Inconsolata;
     margin-bottom:100px;
-    margin:5;
+    margin: 10;
 }
 
 li.li-spacing {
@@ -22,10 +22,10 @@ li.li-spacing {
 
 .footer { 
     position: absolute;
-    vertical-align: middle;
     bottom: 1%;
 
-    width: 98%;
+    left: 7px;
+    right: 7px;
 
     background-color:black;
     color:white;
