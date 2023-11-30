@@ -1,5 +1,9 @@
 @-ms-viewport{ width: device-width; }
+
+head {
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700&display=swap');
+}
+
 html {
     position:relative;
     min-height: 100%;
