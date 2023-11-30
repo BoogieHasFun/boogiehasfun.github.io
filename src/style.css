@@ -45,13 +45,22 @@ li.li-spacing {
     text-align: center;
     background-color:rgba(0, 0, 0, 0.75);
     font-size: 115%;
-    border-radius: 10px; 
 }
+.default-box-header {
+    color:white;
+    padding:10px;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.849);
+    font-size: 125%;
+    
+}
+
 
 code {
     background-color: rgba(0, 0, 0, 0.616); 
-    border-radius: 5px; 
-    padding: 0.3%;
-    text-align: center;
+    border-radius: 6px; 
+    padding: 3.5px 6px;
+    white-space: break-spaces;
+    font-size: 105%;
 }
 
