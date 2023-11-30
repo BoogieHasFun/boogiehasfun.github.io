@@ -1,13 +1,17 @@
 @-ms-viewport{ width: device-width; }
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700&display=swap');
+
 
 head {
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700&display=swap');
 }
 
 html {
     position:relative;
     min-height: 100%;
+    @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700&display=swap');
 }
+
 
 body {
     background-image: url('images/marek-piwnicki-a-house-on-a-small-island-in-the-middle-of-a-lake.jpg');
@@ -30,12 +34,11 @@ li.li-spacing {
     left: 7px;
     right: 7px;
 
-    background-color:black;
+    background-color:rgba(0, 0, 0, 0.75);
     color:white;
     padding: .5%;
-    opacity:65%; 
     text-align: center; 
-    font-size: 65%;
+    font-size: 70%;
 }
 /* hi */
 
