@@ -5,6 +5,8 @@
 html {
     position:relative;
     min-height: 100%;
+    :link { color: #6884ff; }
+    :visited { color: #943be7; }
 }
 
 
@@ -34,6 +36,7 @@ li.li-spacing {
     padding: .5%;
     text-align: center; 
     font-size: 70%;
+    border-radius: 10px; 
 }
 /* hi */
 
@@ -44,6 +47,13 @@ li.li-spacing {
     text-align: center;
     background-color:rgba(0, 0, 0, 0.75);
     font-size: 115%;
+    border-radius: 10px; 
 }
 
+code {
+    background-color: rgba(0, 0, 0, 0.616); 
+    border-radius: 5px; 
+    padding: 0.3%;
+    text-align: center;
+}
 
