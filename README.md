@@ -2,8 +2,7 @@
 i will attempt to make a good [website](https://boogiehasfun.github.io)
 
 ## Self-hosting
-If you ever want to self-host my website. You're gonna need python, and possibly even other stuff like ngnix if you are hosting it publicly, and if you are hosting it publicly please make sure you cannot see others public ip address. This is for privacy and so if I check it out you cannot leak my ip, basically don't make your fork of my website a ip grabber ~~(sounds like something galaticlemonade would do)~~. I am not an expert at self-hosting, it's best if you figure it out by asking questions on r/SelfHosted or watch tutorials from trustworthy creators on youtube.
-
+If you ever want to self-host my website. You're gonna need python, and possibly even other stuff like ngnix if you are hosting it publicly, and if you are hosting it publicly please make sure you cannot see others public ip address. This is for privacy and so if I check it out you cannot leak my ip, basically don't make your fork of my website a ip grabber ~~(sounds like something galaticlemonade would do)~~. I am not an expert at self-hosting, it's best if you figure it out by asking questions, use StackOverFlow, use Youtube, etc.
 If you are going to self-host this repo exactly, don't waste your time making it public. please.
 
 ### Local hosting
