@@ -1,5 +1,8 @@
 # boogiehasfun.github.io
 i will attempt to make a good [website](https://boogiehasfun.github.io)
+dev branch, for development and devs. i may actually implement J(ava)S(cript) code into this branch.
+
+
 
 ## Self-hosting
 If you ever want to self-host my website. You're gonna need python, and possibly even other stuff like ngnix if you are hosting it publicly, and if you are hosting it publicly please make sure you cannot see others public ip address. This is for privacy and so if I check it out you cannot leak my ip, basically don't make your fork of my website a ip grabber ~~(sounds like something galaticlemonade would do)~~. I am not an expert at self-hosting, it's best if you figure it out by asking questions, use StackOverFlow, use Youtube, etc. <br>
