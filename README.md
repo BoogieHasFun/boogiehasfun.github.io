@@ -1,5 +1,5 @@
 # boogiehasfun.github.io
-i will attempt to make a good [website](https://boogiehasfun.github.io)
+i will attempt to make a good [website](https://boogiehasfun.github.io) <br>
 dev branch, for development and devs. i may actually implement J(ava)S(cript) code into this branch.
 
 
