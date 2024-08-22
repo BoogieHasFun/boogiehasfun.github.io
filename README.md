@@ -6,13 +6,12 @@ If you ever want to self-host my website. You're gonna need something like pytho
 
 **please don't host this website on your own domain unless there is major modifications to it, don't waste your time**
 
-### Local hosting
-Step 1: download `python`. you can do this using `choco install python`, or using `scoop install main/python`, or use apt-get:
+### Local hosting w/ python
+Step 1: download `python`. you can do this using `choco install python`, or using `scoop install main/python`, going onto their [website](https://www.python.org/downloads/), or using apt-get:
 ```
 sudo apt-get update
 sudo apt-get install python3.6
 ```
-or just figure it out on your own!
 
 Step 2: run this command: `python -m http.server` or `python3 -m http.server`. this will serve your website over http, on your pc's localhost, on port 8000. if you, for example, want to test your website on mobile to see if it works on small screens, you can find your localhost on windows by running `ipconfig` in cmd, or on ubuntu you can run `ip address` to find your local ip. if you want to test your website on your computer that you are running the server on it is as simple as putting in `localhost:8000` into your address bar.
 
