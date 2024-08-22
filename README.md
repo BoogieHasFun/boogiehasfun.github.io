@@ -13,7 +13,7 @@ sudo apt-get update
 sudo apt-get install python3.6
 ```
 
-Step 2: run this command: `python -m http.server` or `python3 -m http.server`. this will serve your website over http, on your pc's localhost, on port 8000. if you, for example, want to test your website on mobile to see if it works on small screens, you can find your localhost on windows by running `ipconfig` in cmd, or on ubuntu you can run `ip address` to find your local ip. if you want to test your website on your computer that you are running the server on it is as simple as putting in `localhost:8000` into your address bar.
+Step 2: run this command: `python -m http.server` or `python3 -m http.server`, or `py -m http.server`. this will serve your website over http, on your pc's localhost, on port 8000. if you, for example, want to test your website on mobile to see if it works on small screens, you can find your localhost on windows by running `ipconfig` in cmd, or on ubuntu you can run `ip address` to find your local ip. if you want to test your website on your computer that you are running the server on it's as simple as putting in `localhost:8000` into your address bar.
 
-### that's it. you don't have to run your website like this (and probably shouldn't), but for testing it's simple and easy as most people have python installed anyways. have fun playing around with your creations!
-<!--hehe secret fail-->
+### that's it. you don't have to run your website like this (and probably shouldn't), but for testing it's simple and easy as most people have python installed anyways.
+
