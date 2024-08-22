@@ -2,9 +2,9 @@
 i will attempt to make a good [website](https://boogiehasfun.github.io)
 
 ## Self-hosting
-If you ever want to self-host my website. You're gonna need something like python, and other stuff like ngnix if you are hosting it publicly. Also, please don't make your fork of my website a ip grabber ~~(sounds like something galaticlemonade would do)~~. I am not an expert at self-hosting, it's best if you figure it out on your own. <br>
+Please don't make your fork of my website a ip grabber then self-host it and give me the link so you can tell me my ip address ~~(sounds like something galaticlemonade would do)~~. I am not an expert at self-hosting, it's best if you figure it out on your own. <br>
 
-**please don't host this website on your own domain unless there is major modifications to it, don't waste your time**
+**~~please~~ don't host this website on your own domain unless there is major modifications to it, don't waste your time**
 
 ### Local hosting w/ python
 Step 1: download `python`. you can do this using `choco install python`, or using `scoop install main/python`, going onto their [website](https://www.python.org/downloads/), or using apt-get:
