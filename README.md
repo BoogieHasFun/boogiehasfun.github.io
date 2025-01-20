@@ -1,5 +1,10 @@
 # boogiehasfun.github.io
-i will attempt to make a good [website](https://boogiehasfun.github.io)
+i will attempt to make a good [website](https://boogiehas.fun)
+
+hosted on: 
+- https://boogiehas.fun
+- https://github.boogiehas.fun (github pages custom domain feature)
+- https://boogiehasfun.github.io
 
 ## Self-hosting
 Please don't make your fork of my website a ip grabber then self-host it and give me the link so you can tell me my ip address ~~(sounds like something galaticlemonade would do)~~. I am not an expert at self-hosting, it's best if you figure it out on your own. <br>
