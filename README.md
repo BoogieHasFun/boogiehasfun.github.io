@@ -2,7 +2,7 @@
 i will attempt to make a good [website](https://boogiehas.fun)
 
 hosted on: 
-- https://boogiehas.fun
+- https://boogiehas.fun (thanks galacticlemonade)
 - https://github.boogiehas.fun (github pages custom domain feature)
 - https://boogiehasfun.github.io
 
