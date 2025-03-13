@@ -7,13 +7,12 @@
 > Ignore the rest if you are not a developer or plan to contribute.
 # Self-hosting
 ### Local hosting w/ python
-  Step 1: download `python`. you can do this using `choco install python`, or using `scoop install main/python`, going onto their [website](https://www.python.org/downloads/), or using apt-get:
+  1. download `python`. you can do this using `choco install python`, or using `scoop install main/python`, going onto their [website](https://www.python.org/downloads/), or using apt-get:
   ```
   sudo apt-get update
   sudo apt-get install python3
   ```
-
-  Step 2: run this command: `python -m http.server` or `python3 -m http.server`, or `py -m http.server`.  
+  2. Start the local server: `python -m http.server` or `python3 -m http.server`, or `py -m http.server`.  
   access the website with `localhost:8080`, for testing on other devices on your network you must find your machines local ip.
 _
 ### Finding your local ip
