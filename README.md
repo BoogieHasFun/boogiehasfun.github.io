@@ -10,7 +10,7 @@
   Step 1: download `python`. you can do this using `choco install python`, or using `scoop install main/python`, going onto their [website](https://www.python.org/downloads/), or using apt-get:
   ```
   sudo apt-get update
-  sudo apt-get install 3.12
+  sudo apt-get install python3
   ```
 
   Step 2: run this command: `python -m http.server` or `python3 -m http.server`, or `py -m http.server`.  
