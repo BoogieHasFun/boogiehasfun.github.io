@@ -4,7 +4,7 @@
   - https://boogiehasfun.github.io
 
 > [!NOTE]
-> Ignore the rest if you are not a developer or plan to contribute.
+> Nerd stuff ahead
 # Self-hosting
 ### Local hosting w/ python
   1. download `python`. you can do this using `choco install python`, or using `scoop install main/python`, going onto their [website](https://www.python.org/downloads/), or using apt-get:
